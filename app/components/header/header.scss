@@ -1,0 +1,51 @@
+header {
+  position: relative;
+  height: 7rem;
+  padding: 2rem;
+  width: 142.8%;
+  .header-flex {
+    justify-content: space-between;
+    align-items: center;
+    .header-left {
+      align-items: center;
+      gap: 1rem;
+      h2 {
+        font-size: 2rem;
+        color: #6200ee;
+        span {
+          color: #fff;
+        }
+      }
+      .search-img {
+        margin-left: 3rem;
+        margin-right: -1.5rem;
+      }
+      input {
+        font-size: 1.5rem;
+        color: #fff;
+        background-color: transparent;
+        opacity: 0.64;
+        border: none;
+        width: 23rem;
+        border-radius: 0.5rem;
+        padding: 2rem;
+        height: 3.5rem;
+      }
+    }
+    .header-right {
+      align-items: center;
+      gap: 2rem;
+      color: #6200ee;
+      .headerSign {
+        border-radius: 0.5rem;
+        background-color: #6200ee;
+        border: 1px solid #6200ee;
+        color: #fff;
+        padding: 1rem 3rem;
+      }
+      img {
+        cursor: pointer;
+      }
+    }
+  }
+}

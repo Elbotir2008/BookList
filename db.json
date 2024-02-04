@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "Don Quixote",
+        "author": "Angel Brakus",
+        "description": "Andr Bernard has researched the stories behind more than one hundred of the most famous titles in the English language to produce a fascinating volume rich in literary anecdote and publishing lore.        ",
+        "pages": "32",
+        "rating": "3.2",
+        "category": 2023
+    },
+    {
+        "id": "2",
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Marguerite Rowe",
+        "description": "Emily knocked the pile down and when she was picking it up discovered that one of the books was an old scrapbook. A loose leaf had fallen out of it. As Emily replaced it, her eyes fell on the description of a poem pasted on it.",
+        "pages": "65",
+        "rating": "4.9",
+        "category": 2024
+    },
+    {
+        "id": "3",
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Alison Torp",
+        "description": "This quotation for Faulkner’s 1936 novel comes from the Books of Samuel – more specifically, 19:4 in 2 Samuel, which is in the Old Testament and relates some of the history of Israel. Absalom, the third son of David, belled against his father and was killed in battle. ",
+        "pages": "123",
+        "rating": "4.8",
+        "category": 2022
+    },
+    {
+        "id": "4",
+        "title": "Wuthering Heights",
+        "author": "Tracy Ward",
+        "description": "This one is from 3:3 in the Ecclesiastes, again part of the Old Testament. The anonymous author is a King of Jerusalem who relates and analyses events in his own life. This has resonated strongly with a lot of people: Abraham Lincoln quoted Ecclesiastes when addressing Congress in 1862.",
+        "pages": "76",
+        "rating": "3.2",
+        "category": 2021
+    },
+    {
+        "id": "5",
+        "title": "Jane Eyre",
+        "author": "Beth Paucek",
+        "description": "Another Ecclesiastes quotation, this time from line 7:4. A brilliant sentence: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth. One of Wharton’s best-known novels, it came out in 1905.",
+        "pages": "56",
+        "rating": "4.5",
+        "category": 2020
+    }
+]

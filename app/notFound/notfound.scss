@@ -1,0 +1,30 @@
+.notFunded {
+  img {
+    margin: 5rem 30rem;
+    width: 50rem;
+  }
+  a {
+    button {
+      background-color: #fff;
+      border: 1px solid #6200ee;
+      padding: 1rem 5rem;
+      color: #6200ee;
+      border-radius: 0.5rem;
+      letter-spacing: 0.1rem;
+      transition: 0.1s linear;
+      &:hover {
+        background-color: #6200ee;
+        color: #fff;
+        transition: 0.1s linear;
+      }
+    }
+  }
+  .btn1 {
+    button {
+      margin-left: 35rem;
+      background-color: #6200ee;
+      margin-right: 2rem;
+      color: #fff;
+    }
+  }
+}
